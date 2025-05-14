@@ -127,6 +127,7 @@ hr{
 	z-index: 99999;
 	width: 100%;
 	background: rgba(0,0,0,0.9);
+	margin-top: -40px;
 }
 .secondary-menu .sm-left {
 	float: left;
