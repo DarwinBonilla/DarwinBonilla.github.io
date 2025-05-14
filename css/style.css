@@ -1085,7 +1085,7 @@ footer .copy-right {
 .totop {
 	position: fixed;
 	bottom: 10px;
-	right: 10px;
+	right: 100px;
 	z-index: 104400;
 }
 
