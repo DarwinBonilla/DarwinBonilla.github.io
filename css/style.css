@@ -96,7 +96,10 @@ hr{
 	transition: all 0.25s ease;
 	z-index: 99;
 }
-.banner{
+.navbar{
+		z-index: 99;
+	}
+	.banner{
 		margin-top: -20px;
 		
 	}
